@@ -17,11 +17,11 @@ const Hero = () => {
               <SectionSubtitle subtitle="Hello" />
               <h2 className="mt-3 mb-3">I&apos;m Andreina Pla</h2>
               <h5 className="mb-4">Graphic Designer</h5>
-              <p>
+              {/* <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                 Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
                 quos!
-              </p>
+              </p> */}
               <div className="mt-5">
                 <button className="primary__btn">
                   <Link href="#">Hire me</Link>
